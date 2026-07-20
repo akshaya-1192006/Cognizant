@@ -233,17 +233,6 @@ git clone https://github.com/your-username/Digital-Nurture-DotNetFSE.git
 - Git & GitHub
 - Problem Solving
 
----
-
-# 📈 Current Progress
-
-- ✅ Week 1 Completed
-- ✅ Week 2 Completed
-- ✅ Week 3 Completed
-- ✅ Week 4 Completed
-- ⏳ Week 5 In Progress
-- ⏳ Week 6 Pending
-- ⏳ Week 7 Pending
 
 ---
 
@@ -253,9 +242,9 @@ git clone https://github.com/your-username/Digital-Nurture-DotNetFSE.git
 
 B.Tech – Computer Science and Engineering
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/akshaya-1192006
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+LinkedIn: https://www.linkedin.com/in/dondetiakshaya/
 
 ---
 
