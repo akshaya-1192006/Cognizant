@@ -10,7 +10,7 @@ Throughout this program, I learned different concepts of backend development, da
 
 The purpose of this repository is to keep all my learning and practical implementations in one place. Every module includes coding exercises and examples that helped me understand real-world software development concepts.
 
-This repository will continue to grow as I complete the remaining modules of the Deep Skilling Program.
+This repository will continue to grow in Deep Skilling Program.
 
 ---
 
@@ -26,7 +26,6 @@ During this program, I gained practical knowledge in:
 - ASP.NET Core Web API
 - Authentication and Authorization using JWT
 - Microservices fundamentals
-- Angular application development
 - Unit Testing using NUnit and Moq
 - Version Control using Git and GitHub
 
@@ -45,7 +44,7 @@ During this program, I gained practical knowledge in:
 - .NET 8
 - ASP.NET Core Web API
 - Entity Framework Core
-- Angular
+- React
 - NUnit
 - Moq
 
@@ -131,7 +130,7 @@ Topics covered:
 
 ---
 
-## 📂 Week 5 – Angular
+## 📂 Week 5 – React
 
 Topics to be covered:
 
@@ -144,11 +143,11 @@ Topics to be covered:
 
 ---
 
-## 📂 Week 6 – Git & Angular
+## 📂 Week 6 – Git & React
 
 Topics to be covered:
 
-- Angular Enhancements
+- React Enhancements
 - Git Commands
 - GitHub Workflow
 - Branching and Merging
@@ -189,10 +188,10 @@ Digital-Nurture-DotNetFSE
 │   └── Microservices
 │
 ├── Week-5
-│   └── Angular
+│   └── React
 │
 ├── Week-6
-│   └── Git & Angular
+│   └── Git & React
 │
 ├── Week-7
 │   └── Docker & DevOps
@@ -207,7 +206,7 @@ Digital-Nurture-DotNetFSE
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/Digital-Nurture-DotNetFSE.git
+git clone https://github.com/akshaya-1192006/Cognizant.git
 ```
 
 2. Open the required project in Visual Studio 2022 or Visual Studio Code.
@@ -222,13 +221,8 @@ git clone https://github.com/your-username/Digital-Nurture-DotNetFSE.git
 
 - C# Programming
 - Object-Oriented Programming
-- Design Patterns
 - SQL Server
-- Entity Framework Core
-- REST API Development
 - Authentication & Authorization
-- Microservices
-- Angular
 - Unit Testing
 - Git & GitHub
 - Problem Solving
