@@ -32,15 +32,15 @@ Implement the Factory Method Design Pattern to create objects without exposing t
 
 ---
 
-### 3. Linear Search
+### 3. E-commerce Platform
 
 **Objective**
 
-Implement the Linear Search algorithm to search for an element in an array.
+Implement the E-commerce Platform algorithm to search for an element in an array.
 
 **Output**
 
-![Linear Search Output](Outputs/linear-search.png)
+![E-commerce Platform Output](Outputs/E-commercePlatform.png)
 
 ---
 
