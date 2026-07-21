@@ -80,7 +80,7 @@ Week-1
 ├── Outputs
 │   ├── singleton.png
 │   ├── factory.png
-│   ├── linear-search.png
+│   ├── E-commerce Platform.png
 │   └── forecast.png
 │
 └── README.md
