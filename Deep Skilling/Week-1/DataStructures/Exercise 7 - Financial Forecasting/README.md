@@ -70,4 +70,4 @@ These approaches reduce execution time and improve memory efficiency for large d
 
 ## Output
 
-![Financial Forecast Output](Output.png)
+![Financial Forecast Output](data2.jpeg)
