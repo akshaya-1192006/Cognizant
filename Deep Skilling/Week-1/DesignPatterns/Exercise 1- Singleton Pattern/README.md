@@ -1,7 +1,7 @@
 # Exercise 1: Implementing the Singleton Pattern
 
 ## Scenario
-
+ 
 A logging utility is used throughout an application to record important events. Since all log messages should be handled by the same logger, only one instance of the Logger class should exist during the application's execution.
 
 ---
