@@ -40,7 +40,7 @@ This pattern is commonly used for logging, configuration settings, caching, and 
 
 ## Output
 
-![Singleton Output](image.jpeg)
+![Singleton Output](./image.jpeg)
 
 ---
 
