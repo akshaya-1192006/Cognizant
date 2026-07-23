@@ -40,7 +40,7 @@ This pattern is commonly used for logging, configuration settings, caching, and 
 
 ## Output
 
-https://github.com/akshaya-1192006/Cognizant/blob/main/Deep%20Skilling/Week-1/DesignPatterns/Exercise%201-%20Singleton%20Pattern/imge.jpeg?raw=true
+![Singleton Output](./imge.jpeg)
 
 ---
 
