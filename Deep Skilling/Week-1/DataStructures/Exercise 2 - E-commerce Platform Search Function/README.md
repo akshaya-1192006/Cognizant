@@ -1,73 +1,82 @@
-# Exercise 7: Financial Forecasting
+# Exercise 2: E-commerce Platform Search Function
 
-## Part 1: Understanding Financial Forecasting
+## Scenario
 
-### What is Financial Forecasting?
-
-Financial forecasting is the process of estimating future financial values based on historical data and a fixed growth rate. It helps organizations predict future revenue, profits, investments, and expenses, making it easier to plan business strategies and allocate resources effectively.
-
-In this exercise, recursion is used to calculate the future value by repeatedly applying the growth rate for each forecast period.
+An e-commerce platform stores information about different products. When a customer searches for a product using its ID, the system should check whether the product is available and display its details.
 
 ---
 
-## Recursive Approach
+## Objective
 
-A recursive function solves the problem by calling itself with a smaller input until it reaches a stopping condition.
+The objective of this exercise is to implement the **Linear Search** algorithm to search for a product from a list of products.
 
-### Components of Recursion
+---
 
-**Base Case**
-- Stops the recursive calls when the required number of years reaches zero.
+## About the Concept
 
-**Recursive Case**
-- Calculates the next year's value by applying the growth rate and calls the same function again for the remaining years.
+Linear Search is one of the simplest searching techniques. It checks each element one by one until the required element is found or until the end of the list is reached. It works well for small datasets and does not require the data to be sorted.
+
+---
+
+## How the Program Works
+
+- Create a list of products with product ID, product name, and category.
+- Read the product ID entered by the user.
+- Compare the entered ID with each product in the list.
+- If a match is found, display the product details.
+- If no match is found, display an appropriate message.
 
 ---
 
 ## Advantages
 
-- Simple and easy to understand for repetitive calculations.
-- Reduces code complexity for recursive problems.
-- Suitable for forecasting values over multiple periods.
+- Easy to understand and implement.
+- Works with both sorted and unsorted data.
+- Suitable for small collections of data.
 
 ---
 
 ## Limitations
 
-- Uses additional memory because every recursive call is stored in the call stack.
-- Can become inefficient for a large number of recursive calls.
-- Deep recursion may lead to a stack overflow.
+- Not efficient for large datasets.
+- Each element is checked one by one in the worst case.
+- Slower compared to Binary Search when the data is sorted.
 
 ---
 
 ## Time Complexity
 
-The recursive solution performs one recursive call for each forecasting period.
-
-**Time Complexity:** `O(n)`
+| Case | Complexity |
+|------|------------|
+| Best Case | O(1) |
+| Average Case | O(n) |
+| Worst Case | O(n) |
 
 ---
 
 ## Space Complexity
 
-The recursive call stack stores one function call for each year.
-
-**Space Complexity:** `O(n)`
+**O(1)** because no additional memory is required apart from a few variables.
 
 ---
 
-## Possible Improvements
+## Files Included
 
-The performance of the forecasting algorithm can be improved by:
-
-- Using an iterative approach instead of recursion.
-- Applying Dynamic Programming to avoid repeated calculations.
-- Using Memoization to store previously computed values.
-
-These approaches reduce execution time and improve memory efficiency for large datasets.
+- Product.cs
+- Search.cs
+- Program.cs
 
 ---
 
 ## Output
 
-![Financial Forecast Output](Output.png)
+![Program Output](data.jpeg)
+
+---
+
+## What I Learned
+
+- I understood how the Linear Search algorithm works.
+- I learned how to search for an object in an array using a key value.
+- I gained hands-on experience in implementing searching techniques using C#.
+- I understood the time complexity of Linear Search and when it is suitable to use.
