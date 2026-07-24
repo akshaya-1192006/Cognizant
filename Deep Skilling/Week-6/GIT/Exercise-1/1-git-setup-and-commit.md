@@ -1,10 +1,10 @@
-# Git Hands-On 01: Setup Git and Add a File
+# Git Hands-On 01: Setup Git & Adding a File
 
 ---
 
 # Objective
 
-Learn how to install Git, configure Git, create a local repository, add a file, and commit it to the repository.
+Learning how to install Git, configure Git, create a local repository, add a file, and commit it to the repository.
 
 ---
 
