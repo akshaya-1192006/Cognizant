@@ -1,0 +1,43 @@
+/* Page Background */
+
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+
+    background-color:#e8f5e9;
+
+    background-image:url("images/background.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+/* Header */
+
+header{
+    background:linear-gradient(to right,#0d6efd,#6610f2);
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+/* Event Section */
+
+.event{
+    width:70%;
+    margin:40px auto;
+    padding:20px;
+
+    background:rgba(255,255,255,0.8);
+
+    border-radius:10px;
+}
+
+h2{
+    color:#198754;
+}
+
+p{
+    color:#333333;
+    line-height:1.6;
+}
