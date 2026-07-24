@@ -1,4 +1,4 @@
-# 💻 Cognizant Digital Nurture 5.0 – DotNet Full Stack Engineer
+# Cognizant Digital Nurture 5.0 – DotNet Full Stack Engineer
 
 Welcome to my Digital Nurture 5.0 learning repository. This repository contains the hands-on exercises, assignments, and practice projects that I completed during the Cognizant DotNet Full Stack Engineer Deep Skilling Program.
 
@@ -6,7 +6,7 @@ Throughout this program, I learned different concepts of backend development, da
 
 ---
 
-# 📌 About This Repository
+#  About This Repository
 
 The purpose of this repository is to keep all my learning and practical implementations in one place. Every module includes coding exercises and examples that helped me understand real-world software development concepts.
 
@@ -14,7 +14,7 @@ This repository will continue to grow in Deep Skilling Program.
 
 ---
 
-# 🎯 What I Learned
+#  What I Learned
 
 During this program, I gained practical knowledge in:
 
@@ -31,7 +31,7 @@ During this program, I gained practical knowledge in:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 ### Programming Languages
 - C#
@@ -61,9 +61,9 @@ During this program, I gained practical knowledge in:
 
 ---
 
-# 📚 Modules Included
+#  Modules Included
 
-## 📂 Week 1 – Design Patterns, Data Structures & Testing
+## Week 1 – Design Patterns, Data Structures & Testing
 
 This module focuses on software design and coding fundamentals.
 
@@ -81,7 +81,7 @@ Topics covered:
 
 ---
 
-## 📂 Week 2 – Entity Framework Core
+## Week 2 – Entity Framework Core
 
 Implemented database operations using Entity Framework Core.
 
@@ -98,7 +98,7 @@ Topics covered:
 
 ---
 
-## 📂 Week 3 – ASP.NET Core Web API
+##  Week 3 – ASP.NET Core Web API
 
 Built RESTful APIs using ASP.NET Core.
 
@@ -115,7 +115,7 @@ Topics covered:
 
 ---
 
-## 📂 Week 4 – Microservices
+##  Week 4 – Microservices
 
 Implemented authentication and authorization using JWT.
 
@@ -130,7 +130,7 @@ Topics covered:
 
 ---
 
-## 📂 Week 5 – React
+##  Week 5 – React
 
 Topics to be covered:
 
@@ -143,7 +143,7 @@ Topics to be covered:
 
 ---
 
-## 📂 Week 6 – Git & React
+##  Week 6 – Git & React
 
 Topics to be covered:
 
@@ -154,7 +154,7 @@ Topics to be covered:
 
 ---
 
-## 📂 Week 7 – Docker & DevOps
+##  Week 7 – Docker & DevOps
 
 Topics to be covered:
 
@@ -166,7 +166,7 @@ Topics to be covered:
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 Digital-Nurture-DotNetFSE
@@ -201,7 +201,7 @@ Digital-Nurture-DotNetFSE
 
 ---
 
-# 🚀 How to Use
+#  How to Use
 
 1. Clone this repository.
 
@@ -217,7 +217,7 @@ git clone https://github.com/akshaya-1192006/Cognizant.git
 
 ---
 
-# 💡 Skills Gained
+#  Skills Gained
 
 - C# Programming
 - Object-Oriented Programming
@@ -230,7 +230,7 @@ git clone https://github.com/akshaya-1192006/Cognizant.git
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Dondeti Akshaya Reddy**
 
