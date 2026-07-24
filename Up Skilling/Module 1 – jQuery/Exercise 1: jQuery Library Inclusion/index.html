@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Library Inclusion</title>
+
+    <!-- Method 1: jQuery using CDN -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <!-- Method 2: Local jQuery (Uncomment after downloading jQuery) -->
+    <!-- <script src="jquery-3.7.1.min.js"></script> -->
+</head>
+<body>
+
+    <h1>jQuery Exercise 1</h1>
+
+    <p id="message">Hello World!</p>
+
+    <script>
+
+        $(document).ready(function () {
+
+            console.log($("#message").text());
+
+        });
+
+    </script>
+
+</body>
+</html>
